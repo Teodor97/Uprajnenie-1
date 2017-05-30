@@ -1,0 +1,3 @@
+napravih nov fail za branch develop2
+
+sega pravq promeni ot main-a
